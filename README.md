@@ -6,7 +6,7 @@ Instagram bot that likes posts from followers
 git clone https://github.com/SKoley89/Instabot.git
 ```
 
-run the following command to install the required libraries:
+run the following command to install the required libraries, Selenium and BeautifulSoup4:
 ```
 pip install selenium
 pip install bs4
